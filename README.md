@@ -1,4 +1,4 @@
-# Protfolio - Dhaval Prajapati
+# Dhaval Prajapati
 A list of Data Science and Analytics projects that I have worked on.
 
 # Project 1: Sentiment analysis of Customer reviews on food products: Project Overview

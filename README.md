@@ -23,5 +23,5 @@ A list of Data Science and Analytics projects that I have worked on.
 * Extracted planner behavior and insights based on engagement and follow-ups
 * Tracked group room rate trends across different timeframes and regions
 * Highlighted missed opportunities due to non-responsiveness or late responses
-* Evaluated conversion rates and factors influencing successful RFP closuresanalysis
+* Evaluated conversion rates and factors influencing successful RFP closures analysis
 

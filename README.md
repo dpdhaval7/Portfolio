@@ -1,7 +1,7 @@
 # Dhaval Prajapati
 Below is the list of Data Science and Analytics projects that I have worked on so far.
 
-# [Project 4: Channel Analysis Power BI Report (July 2025): Project Overview](https://github.com/dpdhaval7/Housing-Finance-Channel-Analysis-Report)
+# [Project 4: Channel Analysis Report for a Housing Finance Company (July 2025): Project Overview](https://github.com/dpdhaval7/Housing-Finance-Channel-Analysis-Report)
 * Developed an interactive Power BI dashboard to analyze performance of sales and sourcing channels across regions
 * Tracked key KPIs such as disbursal volumes, login-to-sanction ratio, TAT, and sourcing channel productivity
 * Identified top-performing channels and underperforming geographies
